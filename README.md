@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 <br><br>👨‍💻 Software Engineering student with a focus on backend development.<br><br>🚀 Currently enhancing my skills in automation with Python, while exploring the JavaScript ecosystem, including Node.js and Nest.js.<br><br>☁️ Beginning my journey into Cloud Computing, and actively learning about DevOps practices, including Docker and CI/CD pipelines.<br><br>🔧 Experienced with Git/GitHub for version control<br><br>💡 Always eager to learn and grow, with a passion for building efficient and scalable solutions.<br>
 
 
